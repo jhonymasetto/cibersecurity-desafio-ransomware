@@ -1,0 +1,12 @@
+Desafio de projeto Ransomware bootcamp Santander & DIO
+ 
+    Este desafio faz parte do bootcamp de cibersegurança da Santander em parceria com a DIO.
+
+Sobre o desafio:
+
+    O objetivo deste desafio é implementar um encriptador de arquivos em linguagem Phyton
+
+Files:
+    myfile.txt: Arquivo a ser encriptado
+    encrypter.py: codigo encriptador
+    decrypter.py: Codigo decryptador
