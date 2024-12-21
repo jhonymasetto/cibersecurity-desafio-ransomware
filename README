@@ -1,4 +1,4 @@
-Desafio de projeto Ransomware bootcamp Santander & DIO
+Desafio de projeto Ransomware na pratica - by bootcamp Santander & DIO
  
     Este desafio faz parte do bootcamp de cibersegurança da Santander em parceria com a DIO.
 
@@ -10,3 +10,4 @@ Files:
     myfile.txt: Arquivo a ser encriptado
     encrypter.py: codigo encriptador
     decrypter.py: Codigo decryptador
+
